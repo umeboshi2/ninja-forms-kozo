@@ -1,6 +1,6 @@
 <?php if ( ! defined( 'ABSPATH' ) ) exit;
 
-final class NF_Example_Action extends NF_Notification_Base_Type
+final class NF_Example_Action extends NF_Abstracts_Action
 {
     /**
      * @var name
